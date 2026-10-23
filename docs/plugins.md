@@ -46,10 +46,10 @@ dsh plugin --profile web remove 插件包名
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 社区最火的 dsh 桌面端，把插件生态做成桌面应用 | 32.6k | 2026-10-23 |
+| [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop) | 社区最火的 dsh 桌面端，把插件生态做成桌面应用 | 32.7k | 2026-10-23 |
 | [dataelement/dsh-desktop](https://github.com/dataelement/dsh-desktop) | DSHDesktop：另一款主流 dsh 桌面版 | 16.5k | 2026-10-23 |
 | [dsh-tauri/deepseek-harness-desktop](https://github.com/dsh-tauri/deepseek-harness-desktop) | Tauri 桌面版，安装包约 8 MB，免配环境、预置插件 | 3.2k | 2026-10-23 |
-| [yyh-001/DSH-X](https://github.com/yyh-001/DSH-X) | 轻量启动器：多实例、版本、插件、整合包、MCP 与技能管理 | 740 | 2026-10-23 |
+| [yyh-001/DSH-X](https://github.com/yyh-001/DSH-X) | 轻量启动器：多实例、版本、插件、整合包、MCP 与技能管理 | 741 | 2026-10-23 |
 | [lencx/Minke](https://github.com/lencx/Minke) | DeepSeek Harness 桌面客户端 | 691 | 2026-10-18 |
 
 ### 手机与远程访问
@@ -58,8 +58,8 @@ dsh plugin --profile web remove 插件包名
 |---|---|--:|---|
 | [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) | 电脑上跑 dsh web，手机扫码同步访问（局域网 + 公网） | 2.3k | 2026-10-17 |
 | [DSH-APP/DSHA](https://github.com/DSH-APP/DSHA) | 免 Root、免 Termux，在安卓手机上运行 dsh | 2.1k | 2026-10-23 |
-| [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) | P2P 优先、端到端加密的多端远程访问 | 781 | 2026-10-23 |
-| [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) | 原生 iOS 客户端 | 630 | 2026-10-23 |
+| [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote) | P2P 优先、端到端加密的多端远程访问 | 783 | 2026-10-23 |
+| [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile) | 原生 iOS 客户端 | 631 | 2026-10-23 |
 | [saya-ch/dsh-mobile](https://github.com/saya-ch/dsh-mobile) | 安卓 App + 安全远程访问插件 | 575 | 2026-10-23 |
 
 ### 插件市场与发现
@@ -75,10 +75,10 @@ dsh plugin --profile web remove 插件包名
 
 | 项目 | 说明 | ⭐ | 最近更新 |
 |---|---|--:|---|
-| [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 高性能终端界面（TUI）插件 | 5.4k | 2026-10-23 |
+| [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | 高性能终端界面（TUI）插件 | 5.5k | 2026-10-23 |
 | [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar) | 可扩展侧边栏：文件编辑、终端、侧边对话、Git、子代理 | 4.5k | 2026-10-23 |
 | [Aisland-SJL/dsh-worktable](https://github.com/Aisland-SJL/dsh-worktable) | 面向项目的 Agent 工作台 | 782 | 2026-10-03 |
-| [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 在回复里渲染可交互的 UI 组件 | 750 | 2026-10-23 |
+| [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui) | 在回复里渲染可交互的 UI 组件 | 751 | 2026-10-23 |
 | [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse) | 可视化、非线性的对话工作区 | 575 | 2026-10-22 |
 
 ### 上下文、记忆与省 Token
@@ -87,9 +87,9 @@ dsh plugin --profile web remove 插件包名
 |---|---|--:|---|
 | [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) | 底层操作工具集，减少 Token 消耗和任务耗时 | 4.0k | 2026-10-21 |
 | [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) | 上下文洞察与管理，带上下文仪表盘 | 3.5k | 2026-10-23 |
-| [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 可组合、基于视图的上下文来源 | 674 | 2026-10-23 |
+| [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon) | 可组合、基于视图的上下文来源 | 675 | 2026-10-23 |
 | [adoresever/graph-memory](https://github.com/adoresever/graph-memory) | 知识图谱记忆插件（同时支持 OpenClaw） | 663 | 2026-10-01 |
-| [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 跨会话长期记忆 + 后台自我进化 | 431 | 2026-09-29 |
+| [csyangwen/dsh-memory-evolve](https://github.com/csyangwen/dsh-memory-evolve) | 跨会话长期记忆 + 后台自我进化 | 433 | 2026-09-29 |
 
 ### 联网搜索与视觉（给纯文本模型加眼睛）
 
@@ -100,7 +100,7 @@ dsh plugin --profile web remove 插件包名
 | [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit) | 视觉工具箱：粘贴图片识别、多图问答、截图还原前端 | 906 | 2026-10-23 |
 | [liustack/modsearch](https://github.com/liustack/modsearch) | 免费联网搜索插件，免注册、无需 API Key | 815 | 2026-10-18 |
 | [anysearch-team/anysearch-dsh](https://github.com/anysearch-team/anysearch-dsh) | AnySearch 搜索提供方与高级搜索工具 | 661 | 2026-10-10 |
-| [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) | 基于 DuckDuckGo 的免费搜索提供方，无需 Key | 585 | 2026-10-23 |
+| [DDDMUC/dsh-free-search](https://github.com/DDDMUC/dsh-free-search) | 基于 DuckDuckGo 的免费搜索提供方，无需 Key | 586 | 2026-10-23 |
 
 ### 多 Agent 与自动化
 
@@ -108,7 +108,7 @@ dsh plugin --profile web remove 插件包名
 |---|---|--:|---|
 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 两阶段预设：最小化启动，再加载完整工具 | 3.7k | 2026-10-21 |
 | [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) | 可嵌入的任务面板（支持 Codex 与 dsh） | 3.4k | 2026-10-21 |
-| [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | 长期运行的机器人团队，支持 bot 间消息 | 3.2k | 2026-10-23 |
+| [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot) | 长期运行的机器人团队，支持 bot 间消息 | 3.3k | 2026-10-23 |
 | [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams) | Agent Teams：多个 Agent 组队分工、并行协作 | 2.4k | 2026-10-21 |
 | [omdsh-dev/dsh-browser](https://github.com/omdsh-dev/dsh-browser) | Chrome 侧边栏扩展，让 dsh 操作你的浏览器 | 894 | 2026-10-01 |
 
@@ -118,7 +118,7 @@ dsh plugin --profile web remove 插件包名
 |---|---|--:|---|
 | [xmanrui/dsh-im](https://github.com/xmanrui/dsh-im) | 把飞书、微信、钉钉、企业微信、QQ、Telegram 等机器人接入 dsh | 2.4k | 2026-10-23 |
 | [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design) | 可编辑的设计系统与 PPT 工作室 | 1.5k | 2026-10-08 |
-| [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) | 给 dsh 一个真正的办公环境（Univer 表格 / 文档） | 589 | 2026-10-08 |
+| [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office) | 给 dsh 一个真正的办公环境（Univer 表格 / 文档） | 590 | 2026-10-08 |
 | [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research) | 科研工作台：LaTeX、arXiv、实验追踪、GPU 任务 | 545 | 2026-10-21 |
 
 ### 创作
@@ -129,7 +129,7 @@ dsh plugin --profile web remove 插件包名
 | [LiPu-jpg/Openwrite](https://github.com/LiPu-jpg/Openwrite) | 小说创作插件，含 90 个写作工具 | 872 | 2026-10-23 |
 | [shanliuling/dsh-image-gen](https://github.com/shanliuling/dsh-image-gen) | 对话内生成和编辑图像，内置 500+ 提示词，支持 ComfyUI | 675 | 2026-10-20 |
 | [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh) | 网文、短剧、游戏、视频解说四个创作工作台 | 596 | 2026-10-19 |
-| [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) | 每天替你刷 B 站、读字幕、写日报 | 525 | 2026-10-23 |
+| [c1overzz/dsh-bili-scroll](https://github.com/c1overzz/dsh-bili-scroll) | 每天替你刷 B 站、读字幕、写日报 | 527 | 2026-10-23 |
 
 ### 费用与用量
 

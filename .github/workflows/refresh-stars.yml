@@ -1,0 +1,29 @@
+name: 每周刷新星数
+
+on:
+  schedule:
+    - cron: "17 1 * * 1"   # 每周一 09:17（北京时间）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 刷新星数并重新生成表格
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/render.py --refresh
+      - name: 有变化就提交
+        run: |
+          if git diff --quiet; then echo "没有变化"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git commit -am "chore: 每周刷新星数 $(date -u +%F)"
+          git push

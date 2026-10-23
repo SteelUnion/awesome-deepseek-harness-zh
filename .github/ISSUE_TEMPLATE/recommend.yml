@@ -1,0 +1,30 @@
+name: 推荐项目
+description: 推荐一个 dsh 插件、Skill 或中文教程
+labels: ["recommend"]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: 仓库地址
+      placeholder: https://github.com/作者/仓库名
+    validations: { required: true }
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型
+      options: [插件, Skill, 教程或资料, 其他]
+    validations: { required: true }
+  - type: input
+    id: desc
+    attributes:
+      label: 一句话说明它做什么
+    validations: { required: true }
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: 确认
+      options:
+        - label: 开源，与 dsh 明确相关，近两个月内有更新
+          required: true
+        - label: 不是破甲 / 越狱、逆向接口、来源不明的免费模型或借用订阅的工具
+          required: true

@@ -1,0 +1,20 @@
+name: 内容过时 / 有误
+description: 某个命令、配置或说明已经和官方不一致
+labels: ["outdated"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: 哪一页
+      placeholder: 例如 docs/install.md
+    validations: { required: true }
+  - type: input
+    id: version
+    attributes:
+      label: 你的 dsh 版本
+      placeholder: dsh --version 的输出
+  - type: textarea
+    id: detail
+    attributes:
+      label: 现在的正确做法（请附官方文档或讨论帖链接）
+    validations: { required: true }
